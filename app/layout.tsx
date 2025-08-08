@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "H - S Management",
   description:
-    "Comprehensive management solution for team collaboration, tasks, projects, and communication",
+    "Syed Rayyan - CRM",
 };
 
 export default function RootLayout({
